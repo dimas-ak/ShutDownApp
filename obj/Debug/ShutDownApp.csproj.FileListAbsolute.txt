@@ -1,0 +1,10 @@
+E:\Desktop\ShutDownApp\bin\Debug\ShutDownApp.exe.config
+E:\Desktop\ShutDownApp\bin\Debug\ShutDownApp.exe
+E:\Desktop\ShutDownApp\bin\Debug\ShutDownApp.pdb
+E:\Desktop\ShutDownApp\obj\Debug\ShutDownApp.csprojAssemblyReference.cache
+E:\Desktop\ShutDownApp\obj\Debug\ShutDownApp.Form1.resources
+E:\Desktop\ShutDownApp\obj\Debug\ShutDownApp.Properties.Resources.resources
+E:\Desktop\ShutDownApp\obj\Debug\ShutDownApp.csproj.GenerateResource.cache
+E:\Desktop\ShutDownApp\obj\Debug\ShutDownApp.csproj.CoreCompileInputs.cache
+E:\Desktop\ShutDownApp\obj\Debug\ShutDownApp.exe
+E:\Desktop\ShutDownApp\obj\Debug\ShutDownApp.pdb
