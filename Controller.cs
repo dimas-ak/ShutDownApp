@@ -26,11 +26,6 @@ namespace ShutDownApp
             return result;
         }
 
-        public static void ResetNumber()
-        {
-            number = 0;
-        }
-
         public static string[] GetTime(int minutes)
         {
             number += 1;
@@ -69,6 +64,7 @@ namespace ShutDownApp
 
         public static void CancelOff()
         {
+            number = 0;
             using (StreamWriter newTask = new StreamWriter(path + separator + "canceloff.bat", true))
             {
                 var command = "shutdown -a";
